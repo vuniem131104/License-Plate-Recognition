@@ -1,0 +1,4 @@
+- Use openCV and easyOCR to read text from license plate in a car detected by YOLO
+- Train YOLO on a custom dataset to create model that can detect license plate easily (get the data [here](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4))
+- The video I used in this project can be downloaded [here](https://drive.google.com/file/d/12sBfgLICdQEnDSOkVFZiJuUE6d3BeanT/view?usp=sharing).
+- You can see the result below: 
